@@ -6,4 +6,8 @@
     <RootNamespace>Практика2._3</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Task1.cs" />
+  </ItemGroup>
+
 </Project>
